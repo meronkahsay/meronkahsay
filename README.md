@@ -178,3 +178,14 @@ Python · Kotlin · React · Next.js · TailwindCSS · SQL
   <desc>Minimal line art animation: girl waves then jumps, repos and tech stack appear, finishes with a lift.</desc>
 </svg>
 </div>
+---
+# Notes and tips
+- If GitHub strips some animation attributes, you can replace `animate` elements with simple CSS like `@keyframes` inlined into the SVG style. Most of the basic `animateTransform` and `animate` tags are supported in GitHub's SVG rendering.
+- You can shorten the file by removing one of the styles if you only want a single version.
+- If you want, I can also produce PNG or GIF exports of these scenes for use outside GitHub.
+---
+If you want I can:
+- Reduce the file size and simplify the animation for faster rendering.
+- Export each animation as a GIF you can host in the repo instead.
+- Tweak timing, speeds, or the look of the girl (hair, outfit details), or change the tech badge layout.
+Tell me which follow up you want and I will update the README accordingly.
