@@ -1,28 +1,20 @@
 <div align="center">
 
-  <!-- Waving Hello -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0bGZ3dGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG2c/giphy.gif" width="220" alt="Waving hello">
-  <h2>Hi! I'm [Your Name]</h2>
-  <p>Welcome to my GitHub profile! ✨</p>
+  <!-- Subtle animated helper -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi!+I'm+[Your+Name];Welcome+to+my+GitHub!" width="440" alt="Typing animation" />
 
-  <!-- Jumping + Tech Stack -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0bGZ3dGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlN5Y28D9MzzcRy/giphy.gif" width="200" alt="Jumping with tech">
-  <h3>My Tech Stack</h3>
+  <!-- Floating cute bot (minimal & modern) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J0dDZ5dDh4eG5lZ2x5cGZ0a2x1aWZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG2c/giphy.gif" width="160" alt="Floating bot">
+
+  <h3>🛠️ Tech Stack</h3>
 
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-  <!-- Final Pose -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0bGZ3dGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRv0ThflsNzdr2M/giphy.gif" width="220" alt="Excited and waiting">
-  <h3>Thanks for visiting! 🚀</h3>
-  <p>I'm excited to learn, build, and grow as a developer.</p>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=6A5ACD" alt="Profile views" />
 
 </div>
-
----
-
-> 💡 **Pro Tip**: Pin your best repositories on your profile so they appear below this README!
