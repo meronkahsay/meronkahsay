@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm [Your Name]
+
+I'm a [your role, e.g., Computer Science student at XYZ University] with an interest in [e.g., software engineering, data structures, or cloud computing].
+
+## 🛠️ Technologies & Tools
+- Languages: Python, JavaScript, SQL  
+- Frameworks: Flask, React  
+- Tools: Git, Docker, VS Code  
+
+## 📫 How to Reach Me
+- LinkedIn: [link]  
+- Email: your.email@example.com  
+
+> “Write code that others can read.” — You (soon!)
