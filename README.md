@@ -1,30 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**meronkahsay/meronkahsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Waving Hello -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0bGZ3dGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ4l4LhG2c/giphy.gif" width="220" alt="Waving hello">
+  <h2>Hi! I'm [Your Name]</h2>
+  <p>Welcome to my GitHub profile! ✨</p>
 
-Here are some ideas to get you started:
+  <!-- Jumping + Tech Stack -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0bGZ3dGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlN5Y28D9MzzcRy/giphy.gif" width="200" alt="Jumping with tech">
+  <h3>My Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm [Your Name]
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-I'm a [your role, e.g., Computer Science student at XYZ University] with an interest in [e.g., software engineering, data structures, or cloud computing].
+  <!-- Final Pose -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0bGZ3dGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bGZ4dGt5eWZ5a2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRv0ThflsNzdr2M/giphy.gif" width="220" alt="Excited and waiting">
+  <h3>Thanks for visiting! 🚀</h3>
+  <p>I'm excited to learn, build, and grow as a developer.</p>
 
-## 🛠️ Technologies & Tools
-- Languages: Python, JavaScript, SQL  
-- Frameworks: Flask, React  
-- Tools: Git, Docker, VS Code  
+</div>
 
-## 📫 How to Reach Me
-- LinkedIn: [link]  
-- Email: your.email@example.com  
+---
 
-> “Write code that others can read.” — You (soon!)
+> 💡 **Pro Tip**: Pin your best repositories on your profile so they appear below this README!
